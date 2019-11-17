@@ -31,7 +31,7 @@
       </layout>
     </appender>
     <appender name="RollingFileAppender" type="log4net.Appender.RollingFileAppender">
-      <file value="E:\logs\zoomupdater\zoomupdater.log" />
+      <file value="C:\logs\zoomupdater\zoomupdater.log" />
       <appendToFile value="true" />
       <lockingModel type="log4net.Appender.FileAppender+MinimalLock" />
       <rollingStyle value="Date" />
