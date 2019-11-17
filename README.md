@@ -15,7 +15,7 @@ This script logs to the **`C:\logs\zoomupdater\zoomupdater.log`** location on th
 Requirements
 =================
 
-[New-Log4NetLogger] (https://github.com/swys/New-Log4NetLogger) 
+[New-Log4NetLogger] (https://github.com/swys/New-Log4NetLogger)<br/>
 [curl for windows] (https://curl.haxx.se/windows/)
 
 A user with access to update users in Active Directory.
